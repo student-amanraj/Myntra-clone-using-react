@@ -32,6 +32,7 @@ return (
       <span className="price-item-value priceDetail-base-discount">-₹{totalDiscount}</span>
     </div>
     <div className="price-item">
+      
       <span className="price-item-tag">Convenience Fee</span>
       <span className="price-item-value">₹99</span>
     </div>
